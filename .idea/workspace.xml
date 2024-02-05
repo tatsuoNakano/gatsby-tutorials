@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f7471430-1253-4c19-ac33-a3c116f08d17" name="変更" comment="1-7終了" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1-7-dynamic-image" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tatsuoNakano&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0b047c4c-f862-4872-98c1-a6b2205a8d51" />
+        <option name="url" value="https://github.com/tatsuoNakano/gatsby-tutorials.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2bw6n62Sj6Q5Upy4lx1A2a8SO6R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/tara7/Desktop/gatsby/gatsby-tutorial/blog/yet-another-post",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "ts.external.directory.path": "C:\\Users\\tara7\\AppData\\Local\\JetBrains\\WebStorm 2023.3.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tara7\Desktop\gatsby\gatsby-tutorial\blog\yet-another-post" />
+      <recent name="C:\Users\tara7\Desktop\gatsby\gatsby-tutorial\blog\another-post" />
+      <recent name="C:\Users\tara7\Desktop\gatsby\gatsby-tutorial\src\pages" />
+      <recent name="C:\Users\tara7\Desktop\gatsby\gatsby-tutorial\blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tara7\Desktop\gatsby\gatsby-tutorial\blog\my-first-post" />
+      <recent name="C:\Users\tara7\Desktop\gatsby\gatsby-tutorial\blog\yet-another-post" />
+      <recent name="C:\Users\tara7\Desktop\gatsby\gatsby-tutorial\blog\another-post" />
+      <recent name="C:\Users\tara7\Desktop\gatsby\gatsby-tutorial\src\blog" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="f7471430-1253-4c19-ac33-a3c116f08d17" name="変更" comment="" />
+      <created>1707113957717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707113957717</updated>
+      <workItem from="1707113958769" duration="6834000" />
+      <workItem from="1707127825398" duration="10647000" />
+    </task>
+    <task id="LOCAL-00001" summary="1-3開始">
+      <option name="closed" value="true" />
+      <created>1707119294454</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707119294454</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1-3開始">
+      <option name="closed" value="true" />
+      <created>1707119321014</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707119321014</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1-3開始">
+      <option name="closed" value="true" />
+      <created>1707119344816</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707119344816</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1-3開始">
+      <option name="closed" value="true" />
+      <created>1707119375911</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707119375911</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1-3終了">
+      <option name="closed" value="true" />
+      <created>1707126000569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707126000569</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1-3終了">
+      <option name="closed" value="true" />
+      <created>1707126074332</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707126074332</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1-4終了">
+      <option name="closed" value="true" />
+      <created>1707130511753</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707130511753</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1-4終了">
+      <option name="closed" value="true" />
+      <created>1707133644987</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707133644987</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1-6開始">
+      <option name="closed" value="true" />
+      <created>1707133878246</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707133878246</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1-6終了">
+      <option name="closed" value="true" />
+      <created>1707137329623</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707137329623</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1-7終了">
+      <option name="closed" value="true" />
+      <created>1707140101022</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707140101022</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1-3開始" />
+    <MESSAGE value="1-3終了" />
+    <MESSAGE value="1-4終了" />
+    <MESSAGE value="1-6開始" />
+    <MESSAGE value="1-6終了" />
+    <MESSAGE value="1-7終了" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-7終了" />
+  </component>
+</project>
